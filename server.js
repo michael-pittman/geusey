@@ -1,6 +1,3 @@
-import 'semantic-ui-css/semantic.min.css';
-import '../semantic/dist/semantic.min.css';
-
 const express = require("express");
 const path = require("path");
 const PORT = process.env.PORT || 3001;
